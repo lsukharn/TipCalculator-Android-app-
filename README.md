@@ -1,6 +1,7 @@
 TipCalculator-Android-app-
 ==========================
 Author: Leonid Sukharnikov
+
 This is an Android application that calculates tips. Target API=19
 
 It calculates tips for 10% and 15% by default and custom tips (using SeekBar View).

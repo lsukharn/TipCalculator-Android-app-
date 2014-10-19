@@ -1,5 +1,5 @@
 Author: Leonid Sukharnikov
-This is an Android application that calculates tips. 
+This is an Android application that calculates tips. Target API=19.
 It calculates tips for 10% and 15% by default and custom tips (using SeekBar View).
 Custom seek bar is conveniently located below the Views that display calculated tips.
 User cannot enter anything but digits, which precludes possibility of an error.
